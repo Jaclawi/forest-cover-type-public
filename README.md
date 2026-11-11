@@ -10,6 +10,9 @@ This repository contains my **machine learning classification** pipeline develop
 
 The goal is to classify the dominant forest cover type in a region using features such as elevation, slope, aspect, hydrological distances, soil type indicators, and wilderness area indicators. The target variable is `Cover_Type`, which contains seven classes of forest cover.
 
+
+![](assets/3d_test_accuracy.svg)
+
 ---
 ### **Dataset**
 
